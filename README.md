@@ -82,7 +82,7 @@ Standardized, scalable, and highly available infrastructure is my sweet spot. I 
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashRawat01&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="Akash Rawat GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashRawat01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Akash Rawat GitHub Stats" />
 </p>
 
 ---
