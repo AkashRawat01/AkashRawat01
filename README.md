@@ -76,13 +76,33 @@ Standardized, scalable, and highly available infrastructure is my sweet spot. I 
 * 👨🏻‍💻 [Portfolio Link](https://akash-portfolio-theta-nine.vercel.app)
 
 ---
-
+<!---
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkashRawat01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Akash Rawat GitHub Stats" />
+</p>
+
+---
+-->
+---
+
+### 📊 Platform & Ecosystem Breakdown
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
