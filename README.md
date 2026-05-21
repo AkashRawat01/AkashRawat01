@@ -76,7 +76,7 @@ Standardized, scalable, and highly available infrastructure is my sweet spot. I 
 * 👨🏻‍💻 [Portfolio Link](https://akash-portfolio-theta-nine.vercel.app)
 
 ---
-<!---
+
 ---
 
 ### 📊 GitHub Activity & Stats
@@ -86,7 +86,7 @@ Standardized, scalable, and highly available infrastructure is my sweet spot. I 
 </p>
 
 ---
--->
+
 ---
 
 ### 📊 Platform & Ecosystem Breakdown
